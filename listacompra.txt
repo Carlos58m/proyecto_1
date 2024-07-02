@@ -6,3 +6,6 @@ sal
 tomates
 pepinos
 ajos
+macarrones
+atún
+queso
